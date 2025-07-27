@@ -1,0 +1,72 @@
+{
+  "timestamp": "2025-07-27T15:00:00.000Z",
+  "hashtag": "aitools",
+  "total_videos": 6,
+  "top_5": [
+    {
+      "title": "AI Tools That Will Replace Your Job in 2024",
+      "views": "2.3M views",
+      "link": "https://youtube.com/shorts/abc123",
+      "channel": "Tech Insider",
+      "is_short": true,
+      "platform": "YouTube",
+      "scraped_at": "2025-07-27T15:00:00.000Z",
+      "monetization_angle": "Create reaction video showing alternative AI tools",
+      "rank_score": 2990000,
+      "final_rank": 1
+    },
+    {
+      "title": "Build Apps with AI in 60 Seconds",
+      "views": "1.5M views", 
+      "link": "https://youtube.com/shorts/ghi789",
+      "channel": "Quick Code",
+      "is_short": true,
+      "platform": "YouTube",
+      "scraped_at": "2025-07-27T15:00:00.000Z",
+      "monetization_angle": "Tutorial series with paid course promotion",
+      "rank_score": 1950000,
+      "final_rank": 2
+    },
+    {
+      "title": "This AI tool makes $10K/month passively",
+      "views": "1.2M views",
+      "link": "https://tiktok.com/@creator1/video1",
+      "creator": "@techentrepreneur",
+      "hashtags": ["#aitools", "#makemoney", "#passive"],
+      "platform": "TikTok",
+      "scraped_at": "2025-07-27T15:00:00.000Z",
+      "monetization_angle": "Affiliate marketing for AI software tools",
+      "rank_score": 1440000,
+      "final_rank": 3
+    },
+    {
+      "title": "ChatGPT vs Claude: Ultimate AI Showdown",
+      "views": "892K views",
+      "link": "https://youtube.com/shorts/def456", 
+      "channel": "AI Battle",
+      "is_short": true,
+      "platform": "YouTube",
+      "scraped_at": "2025-07-27T15:00:00.000Z",
+      "monetization_angle": "Make comparison video with affiliate links",
+      "rank_score": 1159600,
+      "final_rank": 4
+    },
+    {
+      "title": "AI changed my entire workflow in 1 week",
+      "views": "800K views",
+      "link": "https://tiktok.com/@creator2/video2",
+      "creator": "@productivityhacker",
+      "hashtags": ["#aitools", "#productivity", "#workflow"],
+      "platform": "TikTok", 
+      "scraped_at": "2025-07-27T15:00:00.000Z",
+      "monetization_angle": "Course selling productivity systems",
+      "rank_score": 960000,
+      "final_rank": 5
+    }
+  ],
+  "sources": {
+    "tiktok_count": 3,
+    "youtube_count": 3
+  },
+  "errors": []
+}
